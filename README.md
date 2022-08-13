@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemarchini&label=Profile%20views&color=0e75b6&style=flat" alt="lemarchini" /> </p>
 
-- 🔭 I’m currently working on [Password Generator](https://github.com/LeMarchini/PasswordGenerator)
+- 🔭 I’m currently working on [VNCGridView](https://github.com/LeMarchini/VNCGridView)
 
 - 🌱 I’m currently learning **C#, .NET & other Frameworks**
 
